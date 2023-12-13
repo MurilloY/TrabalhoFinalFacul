@@ -9,3 +9,6 @@ bibliotecas usadas:
 npm install express express-session cookie-parser ejs uuid 
 
 -Fora o padrao para o desenvolvimento da atividade usei tambem a biblioteca do ejs para fazer as paginas dinamicas e uuid para vincular os usuarios a um id unico sem precisar definir o dado como primary-key dentro de um sql por exemplo, podendo assim manipular os dados de forma mais precisa. 
+
+-Comando para inicializacao do projeto: 
+node app.js
